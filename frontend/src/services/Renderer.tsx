@@ -4,6 +4,7 @@ import React, { Fragment } from 'react'
 import Container from '../components/Container'
 import Card from '../components/Card'
 import Chart from '../components/Chart'
+import Table from '../components/Table'
 
 // ... import other components like Text, Image, List, Button etc.
 
@@ -13,8 +14,7 @@ const Renderer: FC<{ data: any }> = ({ data }) => {
   }
 
   const renderNode = (node: any) => {
-    console.log('Rendering node:', node)
-
+    console.log('Rendering node:', node) // Debug log
     switch (node.type) {
       case 'root':
         return (
@@ -44,8 +44,55 @@ const Renderer: FC<{ data: any }> = ({ data }) => {
         )
       case 'card':
         return <Card title={node.title} content={node.content}></Card>
-      case 'text':
-        return <p className={node.variant}>{node.value}</p>
+      case 'text': {
+        // Inline variants → span
+        const inlineVariants = [
+          'span',
+          'span-bold',
+          'span-italic',
+          'span-underline',
+        ]
+
+        // Determine element tag
+        let Tag: any = 'span'
+        if (node.variant === 'header') Tag = 'h1'
+        else if (node.variant === 'subheader') Tag = 'h2'
+        else if (node.variant === 'paragraph') Tag = 'p'
+        else if (inlineVariants.includes(node.variant)) Tag = 'span'
+
+        // Determine class styles
+        const variantClassMap = {
+          span: '',
+          'span-bold': 'font-bold',
+          'span-italic': 'italic',
+          'span-underline': 'underline',
+          paragraph: 'text-base',
+          header: 'text-2xl font-bold',
+          subheader: 'text-xl font-semibold',
+        } as const
+
+        const className =
+          variantClassMap[node.variant as keyof typeof variantClassMap] || ''
+        // ...existing code...
+
+        // Render `value` (simple) or `children` (nested)
+        if (node.value !== undefined && node.value !== null) {
+          return <Tag className={className}>{node.value}</Tag>
+        }
+
+        if (node.children) {
+          return (
+            <Tag className={className}>
+              {node.children.map((child: any, index: number) => (
+                <Fragment key={index}>{renderNode(child)}</Fragment>
+              ))}
+            </Tag>
+          )
+        }
+
+        return null
+      }
+
       case 'image':
         return <img src={node.src} alt={node.alt} />
       case 'list':
@@ -62,22 +109,17 @@ const Renderer: FC<{ data: any }> = ({ data }) => {
           <button onClick={() => console.log(node.action)}>{node.label}</button>
         )
 
+      case 'table':
+        return <Table dataKey={node.dataKey} />
       default:
         return <pre>{JSON.stringify(node, null, 2)}</pre>
     }
   }
-  // prevent rendering until data is available
   try {
-    // debugger;
-    // check if data.root exists
-    // if (data.root && data.root.type === 'root' && data.root.children.length > 0) {
-    // console.log('Rendering UI with data:', data)
     return <>{renderNode(data.root)}</>
-    // }
   } catch (e) {
     return <h1>Loading...</h1>
   }
-  // return <h1>Temp</h1>
 }
 
 export default Renderer

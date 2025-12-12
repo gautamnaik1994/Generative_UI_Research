@@ -536,6 +536,7 @@ function App() {
 
       src.addEventListener('end', () => {
         console.log('Stream ended. Closing SSE.')
+        setLlmStatusMessage('Stream ended.')
         src.close()
       })
 

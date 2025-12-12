@@ -85,3 +85,49 @@ img {
   object-fit: contain;
   border: 1px solid #ccc;
 }
+
+/* Block-level text */
+.header,
+.text-2xl {
+  font-size: 1.75rem; /* ~28px */
+  font-weight: 700;
+  margin: 0.5rem 0;
+}
+.font-semibold,
+.span-semibold {
+  font-weight: 500;
+}
+
+.subheader,
+.text-xl {
+  font-size: 1.25rem; /* ~20px */
+  font-weight: 500;
+  margin: 0.4rem 0;
+}
+
+.paragraph,
+.text-base {
+  font-size: 1rem; /* ~16px */
+  line-height: 1.5;
+  margin: 0.5rem 0;
+}
+
+/* Inline text */
+.span {
+  font-weight: 400;
+}
+
+.span-bold,
+.font-bold {
+  font-weight: 700;
+}
+
+.span-italic,
+.italic {
+  font-style: italic;
+}
+
+.span-underline,
+.underline {
+  text-decoration: underline;
+}

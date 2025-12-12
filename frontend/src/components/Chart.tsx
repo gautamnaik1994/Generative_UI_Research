@@ -9,6 +9,7 @@ import {
 } from 'recharts'
 
 import React, { useState, useEffect, useRef } from 'react'
+import useDebounce from '../hooks/useDebounce'
 
 // #region Sample data
 const data = [
@@ -251,16 +252,16 @@ export function useStableValue<T>(value: T, repeats: number = 2): T {
   return stable
 }
 
-export function useDebounce<T>(value: T, delay = 250): T {
-  const [debounced, setDebounced] = useState(value)
+// export function useDebounce<T>(value: T, delay = 250): T {
+//   const [debounced, setDebounced] = useState(value)
 
-  useEffect(() => {
-    const id = setTimeout(() => setDebounced(value), delay)
-    return () => clearTimeout(id)
-  }, [value, delay])
+//   useEffect(() => {
+//     const id = setTimeout(() => setDebounced(value), delay)
+//     return () => clearTimeout(id)
+//   }, [value, delay])
 
-  return debounced
-}
+//   return debounced
+// }
 
 // props
 
@@ -271,7 +272,7 @@ interface ChartProps {
 }
 
 const Chart = ({ dataKey, x_axis, y_axis }: ChartProps) => {
-  console.log('Chart component received dataKey:', dataKey)
+  // console.log('Chart component received dataKey:', dataKey)
   if (!dataKey) {
     return <div>Loading chart data...</div>
   }

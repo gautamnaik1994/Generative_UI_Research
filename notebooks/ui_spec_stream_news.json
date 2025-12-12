@@ -1,0 +1,4163 @@
+[
+  {
+    "root": {
+      "type": "root",
+      "children": []
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": []
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "",
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU",
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance",
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and",
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price",
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison",
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison ",
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 202",
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 202"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023,"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 407"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 409"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs,"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 409"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 509"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 202"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 202"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023,"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 670"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 790"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming,"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favor"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 790"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood out"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood out for"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood out for its"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood out for its high"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood out for its high-end"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood out for its high-end performance"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood out for its high-end performance."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood out for its high-end performance. Prices"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood out for its high-end performance. Prices varied"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood out for its high-end performance. Prices varied,"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood out for its high-end performance. Prices varied, but"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood out for its high-end performance. Prices varied, but AMD"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood out for its high-end performance. Prices varied, but AMD GPUs"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood out for its high-end performance. Prices varied, but AMD GPUs generally"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood out for its high-end performance. Prices varied, but AMD GPUs generally offered"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood out for its high-end performance. Prices varied, but AMD GPUs generally offered strong"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood out for its high-end performance. Prices varied, but AMD GPUs generally offered strong value"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood out for its high-end performance. Prices varied, but AMD GPUs generally offered strong value."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood out for its high-end performance. Prices varied, but AMD GPUs generally offered strong value."
+                }
+              ]
+            },
+            {
+              "type": "container",
+              "variant": "vertical",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood out for its high-end performance. Prices varied, but AMD GPUs generally offered strong value."
+                }
+              ]
+            },
+            {
+              "type": "container",
+              "variant": "vertical",
+              "children": [
+                {
+                  "type": "text",
+                  "variant": "subheader",
+                  "value": "",
+                  "children": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood out for its high-end performance. Prices varied, but AMD GPUs generally offered strong value."
+                }
+              ]
+            },
+            {
+              "type": "container",
+              "variant": "vertical",
+              "children": [
+                {
+                  "type": "text",
+                  "variant": "subheader",
+                  "value": "Detailed",
+                  "children": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood out for its high-end performance. Prices varied, but AMD GPUs generally offered strong value."
+                }
+              ]
+            },
+            {
+              "type": "container",
+              "variant": "vertical",
+              "children": [
+                {
+                  "type": "text",
+                  "variant": "subheader",
+                  "value": "Detailed GPU",
+                  "children": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "container",
+          "variant": "vertical",
+          "children": [
+            {
+              "type": "text",
+              "variant": "header",
+              "value": "GPU Performance and Price Comparison 2023",
+              "children": null
+            },
+            {
+              "type": "container",
+              "variant": "horizontal",
+              "children": [
+                {
+                  "type": "card",
+                  "title": "Nvidia GPUs Overview",
+                  "content": "In 2023, the RTX 4070 and RTX 4090 were top Nvidia GPUs, with the RTX 4090 being very expensive. The RTX 5090 is the best high-end GPU in 2025. Prices fluctuate based on market demand."
+                },
+                {
+                  "type": "card",
+                  "title": "AMD GPUs Overview",
+                  "content": "In 2023, AMD's RX 6700 XT and RX 7900 XT were top performers for gaming, often compared favorably to similar-priced NVIDIA cards. The RX 7900 XT stood out for its high-end performance. Prices varied, but AMD GPUs generally offered strong value."
+                }
+              ]
+            },
+            {
+              "type": "container",
+              "variant": "vertical",
+              "children": [
+                {
+                  "type": "text",
+                  "variant": "subheader",
+                  "value": "Detailed GPU Analysis",
+                  "children": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

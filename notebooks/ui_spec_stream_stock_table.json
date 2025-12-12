@@ -310,10 +310,7 @@
                   "content": "$278.78"
                 },
                 {
-                  "type": "chart",
-                  "variant": "line",
-                  "x_axis": "Date",
-                  "y_axis": "Close",
+                  "type": "data-table",
                   "title": "AAPL Stock Price History (Last 1 Month)",
                   "dataKey": ""
                 }
@@ -348,10 +345,7 @@
                   "content": "$278.78"
                 },
                 {
-                  "type": "chart",
-                  "variant": "line",
-                  "x_axis": "Date",
-                  "y_axis": "Close",
+                  "type": "data-table",
                   "title": "AAPL Stock Price History (Last 1 Month)",
                   "dataKey": "A"
                 }
@@ -386,10 +380,7 @@
                   "content": "$278.78"
                 },
                 {
-                  "type": "chart",
-                  "variant": "line",
-                  "x_axis": "Date",
-                  "y_axis": "Close",
+                  "type": "data-table",
                   "title": "AAPL Stock Price History (Last 1 Month)",
                   "dataKey": "AAPL"
                 }
@@ -424,10 +415,7 @@
                   "content": "$278.78"
                 },
                 {
-                  "type": "chart",
-                  "variant": "line",
-                  "x_axis": "Date",
-                  "y_axis": "Close",
+                  "type": "data-table",
                   "title": "AAPL Stock Price History (Last 1 Month)",
                   "dataKey": "AAPL_"
                 }
@@ -462,10 +450,7 @@
                   "content": "$278.78"
                 },
                 {
-                  "type": "chart",
-                  "variant": "line",
-                  "x_axis": "Date",
-                  "y_axis": "Close",
+                  "type": "data-table",
                   "title": "AAPL Stock Price History (Last 1 Month)",
                   "dataKey": "AAPL_1"
                 }
@@ -500,272 +485,11 @@
                   "content": "$278.78"
                 },
                 {
-                  "type": "chart",
-                  "variant": "line",
-                  "x_axis": "Date",
-                  "y_axis": "Close",
+                  "type": "data-table",
                   "title": "AAPL Stock Price History (Last 1 Month)",
                   "dataKey": "AAPL_1mo"
                 }
               ]
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "root": {
-      "type": "root",
-      "children": [
-        {
-          "type": "container",
-          "variant": "vertical",
-          "children": [
-            {
-              "type": "text",
-              "variant": "header",
-              "value": "AAPL Stock Information",
-              "children": null
-            },
-            {
-              "type": "container",
-              "variant": "horizontal",
-              "children": [
-                {
-                  "type": "card",
-                  "title": "Latest Stock Price",
-                  "content": "$278.78"
-                },
-                {
-                  "type": "chart",
-                  "variant": "line",
-                  "x_axis": "Date",
-                  "y_axis": "Close",
-                  "title": "AAPL Stock Price History (Last 1 Month)",
-                  "dataKey": "AAPL_1mo"
-                }
-              ]
-            },
-            {
-              "type": "table",
-              "title": "AAPL Stock Price Data (Last 1 Month)",
-              "dataKey": ""
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "root": {
-      "type": "root",
-      "children": [
-        {
-          "type": "container",
-          "variant": "vertical",
-          "children": [
-            {
-              "type": "text",
-              "variant": "header",
-              "value": "AAPL Stock Information",
-              "children": null
-            },
-            {
-              "type": "container",
-              "variant": "horizontal",
-              "children": [
-                {
-                  "type": "card",
-                  "title": "Latest Stock Price",
-                  "content": "$278.78"
-                },
-                {
-                  "type": "chart",
-                  "variant": "line",
-                  "x_axis": "Date",
-                  "y_axis": "Close",
-                  "title": "AAPL Stock Price History (Last 1 Month)",
-                  "dataKey": "AAPL_1mo"
-                }
-              ]
-            },
-            {
-              "type": "table",
-              "title": "AAPL Stock Price Data (Last 1 Month)",
-              "dataKey": "A"
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "root": {
-      "type": "root",
-      "children": [
-        {
-          "type": "container",
-          "variant": "vertical",
-          "children": [
-            {
-              "type": "text",
-              "variant": "header",
-              "value": "AAPL Stock Information",
-              "children": null
-            },
-            {
-              "type": "container",
-              "variant": "horizontal",
-              "children": [
-                {
-                  "type": "card",
-                  "title": "Latest Stock Price",
-                  "content": "$278.78"
-                },
-                {
-                  "type": "chart",
-                  "variant": "line",
-                  "x_axis": "Date",
-                  "y_axis": "Close",
-                  "title": "AAPL Stock Price History (Last 1 Month)",
-                  "dataKey": "AAPL_1mo"
-                }
-              ]
-            },
-            {
-              "type": "table",
-              "title": "AAPL Stock Price Data (Last 1 Month)",
-              "dataKey": "AAPL"
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "root": {
-      "type": "root",
-      "children": [
-        {
-          "type": "container",
-          "variant": "vertical",
-          "children": [
-            {
-              "type": "text",
-              "variant": "header",
-              "value": "AAPL Stock Information",
-              "children": null
-            },
-            {
-              "type": "container",
-              "variant": "horizontal",
-              "children": [
-                {
-                  "type": "card",
-                  "title": "Latest Stock Price",
-                  "content": "$278.78"
-                },
-                {
-                  "type": "chart",
-                  "variant": "line",
-                  "x_axis": "Date",
-                  "y_axis": "Close",
-                  "title": "AAPL Stock Price History (Last 1 Month)",
-                  "dataKey": "AAPL_1mo"
-                }
-              ]
-            },
-            {
-              "type": "table",
-              "title": "AAPL Stock Price Data (Last 1 Month)",
-              "dataKey": "AAPL_"
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "root": {
-      "type": "root",
-      "children": [
-        {
-          "type": "container",
-          "variant": "vertical",
-          "children": [
-            {
-              "type": "text",
-              "variant": "header",
-              "value": "AAPL Stock Information",
-              "children": null
-            },
-            {
-              "type": "container",
-              "variant": "horizontal",
-              "children": [
-                {
-                  "type": "card",
-                  "title": "Latest Stock Price",
-                  "content": "$278.78"
-                },
-                {
-                  "type": "chart",
-                  "variant": "line",
-                  "x_axis": "Date",
-                  "y_axis": "Close",
-                  "title": "AAPL Stock Price History (Last 1 Month)",
-                  "dataKey": "AAPL_1mo"
-                }
-              ]
-            },
-            {
-              "type": "table",
-              "title": "AAPL Stock Price Data (Last 1 Month)",
-              "dataKey": "AAPL_1"
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "root": {
-      "type": "root",
-      "children": [
-        {
-          "type": "container",
-          "variant": "vertical",
-          "children": [
-            {
-              "type": "text",
-              "variant": "header",
-              "value": "AAPL Stock Information",
-              "children": null
-            },
-            {
-              "type": "container",
-              "variant": "horizontal",
-              "children": [
-                {
-                  "type": "card",
-                  "title": "Latest Stock Price",
-                  "content": "$278.78"
-                },
-                {
-                  "type": "chart",
-                  "variant": "line",
-                  "x_axis": "Date",
-                  "y_axis": "Close",
-                  "title": "AAPL Stock Price History (Last 1 Month)",
-                  "dataKey": "AAPL_1mo"
-                }
-              ]
-            },
-            {
-              "type": "table",
-              "title": "AAPL Stock Price Data (Last 1 Month)",
-              "dataKey": "AAPL_1mo"
             }
           ]
         }

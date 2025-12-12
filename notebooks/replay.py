@@ -7,6 +7,7 @@ import jsonpatch   # pip install jsonpatch
 import pickle
 import pandas as pd
 from pydantic import BaseModel
+from llm_utils import structured_ui_gen_llm, messages
 
 app = FastAPI()
 
@@ -23,7 +24,7 @@ app.add_middleware(
 
 
 def load_chunks():
-    with open("ui_spec_stream.json") as f:
+    with open("ui_spec_stream_news.json") as f:
         return json.load(f)
 
 
@@ -171,6 +172,9 @@ def job_status(request: Request, job_id: str):
 
         prev = None
 
+        # for chunk in structured_ui_gen_llm.stream(messages):
+
+        # curr = chunk.model_dump()
         for curr in chunks:
             if prev is None:
                 # First chunk: send full object
