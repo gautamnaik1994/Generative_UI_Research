@@ -87,25 +87,25 @@ Rules for `text`:
 
 basic_ui_spec_v3 = """
 ### Root Component
+Usage: Top-level container for the entire UI.
 {
   "type": "root",
-  "usage": "Top-level container for the entire UI.",
   "children": [ ...components ]
 }
 
 ### Container
+Usage: Group related components together.
 {
   "type": "container",
-  "usage": "Group related components together.",
   "variant": "vertical" | "horizontal",
   "children": [ ...components ]
 }
 
 ### Text Component (Supports Nested Inline Formatting)
+Usage: Display textual content. Use 'span' variants for inline formatting inside other text.
 {
   "type": "text",
   "variant": "header" | "subheader" | "paragraph" | "span" | "span-bold" | "span-italic" | "span-underline",
-  "usage": "Display textual content. Use 'span' variants for inline formatting inside other text.",
   "value": "string",
   "children": [ ...textComponents ]
 }
@@ -122,9 +122,9 @@ Rules for `text`:
    - Use `span-bold`, `span-italic`, `span-underline` for styled inline text.
 
 ### Chart
+Usage: Visualize data. Choose correct x_axis and y_axis from provided data.
 {
   "type": "chart",
-  "usage": "Visualize data. Choose correct x_axis and y_axis from provided data.",
   "variant": "line" | "bar",
   "x_axis": "string",
   "y_axis": "string",
@@ -132,55 +132,59 @@ Rules for `text`:
   "dataKey": "chart_data_key"
 }
 
-### Table
+### Data Table
+Usage: Display tabular data. Use 'dataKey' for large datasets
 {
-  "type": "table",
-  "usage": "Display tabular data. Use 'dataKey' for large datasets; use 'columns' and 'rows' for small, static datasets that should be embedded.",
+  "type": "data-table",
   "title": "string",
-  "dataKey": "string | null",  // Use for large/dynamic data
-  "columns": [ // Use for small/static data
-    { "header": "string", "key": "string" } 
+  "dataKey": "table_data_key", //A key referencing the dataset returned by a tool
+}
+
+### Embed Table
+Usage: Display small/static tabular data inline
+{
+  "type": "embed-table",
+  "title": "string",
+  "columns": [
+    {
+      "header": "string",
+      "key": "string"
+    }, ...
   ],
-  "rows": [ // Use for small/static data
-    { "key_1": "value", "key_2": "value" } 
+  "rows": [
+    { "column_key": "value", ... }, ...
   ]
 }
 
-Rules for `table`:
-1. A Table component must have **either**:
-   - `dataKey` (for large/dynamic datasets), OR
-   - `columns` and `rows` (for small/static datasets)
-2. Never include both `dataKey` and `columns`/`rows` in the same Table component.
-
 
 ### Card
+Usage: Present concise information.
 {
   "type": "card",
-  "usage": "Present concise information.",
   "title": "string",
   "content": "string"
 }
 
 ### Button
+Usage: Trigger an action or event.
 {
   "type": "button",
-  "usage": "Trigger an action or event.",
   "label": "string",
   "action": "string"
 }
 
 ### Image
+Usage: Display visual content.
 {
   "type": "image",
-  "usage": "Display visual content.",
   "src": "image_url",
   "alt": "string"
 }
 
 ### List
+Usage: Display a collection of items.
 {
   "type": "list",
-  "usage": "Display a collection of items.",
   "children": [ ...components ]
 }
 """
@@ -191,6 +195,7 @@ You are a highly specialized **UI Generation Agent** designed to create high-fid
 ---
 
 ## Core Instruction
+
 Generate a single, comprehensive **JSON object** that represents the complete UI specification.
 The output MUST:
 - Strictly follow the `UISpec` Pydantic schema.
@@ -218,10 +223,11 @@ You may only use the components defined below. Select each component based on th
 
 ### 2. Data Integration
 - Charts: Must use `dataKey` for datasets. Only use dataKey if available in the dataset
-- Tables: 
-  - Use `dataKey` for large or dynamic datasets (must be mutually exclusive with columns/rows). Only use dataKey if available in the dataset
-  - Use embedded columns and rows for small or static tabular data (must be mutually exclusive with `dataKey`).
-  - Do not fabricate dataset contents for `dataKey`; only use dataKeys present in the provided datasets.
+- Use `data-table` ONLY when the dataset is referenced using a `dataKey`.
+- Use `embed-table` ONLY when the tabular data is provided inline as arrays (`columns` and `rows`).
+- NEVER mix fields between these two table types.
+- A `data-table` MUST NOT contain `columns` or `rows`.
+- An `embed-table` MUST NOT contain `dataKey`.
 
 ### 3. Text Nesting
 - Use nested `text.children` when inline styling is needed.
@@ -236,7 +242,6 @@ You may only use the components defined below. Select each component based on th
 ### 5. Actionability
 - Every `button` must clearly indicate its purpose through its `label`.
 """
-
 
 intermediate_ui_spec = """
 
@@ -363,10 +368,4 @@ advanced_ui_spec = """
     }
   ]
 }
-"""
-
-temp = """
-### 2. Data Integration
-- Use `dataKey` for tables and charts.  
-- Do **not** fabricate dataset contents; only reference keys.
 """
